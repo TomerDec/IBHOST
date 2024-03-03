@@ -6,16 +6,16 @@
     {
       "name": "Infinity Blade III Modded",
       "bundleIdentifier": "com.chairentertainment.IB3",
-      "developerName": "Tom De",
+      "developerName": "Chair Entertainment",
       "subtitle": "Infinity Blade III Modded",
       "version": "1.4.4",
       "versionDate": "2022-12-30T00:01:00-05:00",
       "versionDescription": "Latest update.",
       "downloadURL": "https://github.com/TomerDec/IBHOST/releases/download/game/Infinity.Blade.III.UnOfficial.Patch.v1.0.ipa",
       "localizedDescription": "The modded Infinity Blade III with unlocked framerate and various QoL features.",
-      "iconURL": "https://github.com/TomerDec/IBHOST/blob/f5c6cb1b0c8d02e45d8c281ec48d863185f0e35c/appicon.png",
+      "iconURL": "https://github.com/TomerDec/IBHOST/blob/b74ee2cf96aa876888ed87b15ebd188920d8aea9/appicon.png?raw=true",
       "tintColor": "#162434",
-      "size": 77010038,
+      "size": 1770010038,
       "screenshotURLs": [
         "https://github.com/TomerDec/IBHOST/blob/58eace421b2350a06e19e6ada60ac5ad3665a178/ss1.jpeg",
         "https://github.com/TomerDec/IBHOST/blob/58eace421b2350a06e19e6ada60ac5ad3665a178/ss2.jpeg"
