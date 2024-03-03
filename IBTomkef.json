@@ -1,64 +1,39 @@
 {
-   "name":"InfinityBlade",
-   "subtitle":"Infinity Blade for SideStore",
-   "description":"A Source to download Infinity Blade III",
-   "iconURL":"https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
-   "headerURL":"https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
-   "tintColor":"#4185A9",
-   "featuredApps":[
-      "com.chairentertainment.IB3"
-   ],
-   "apps":[
-      {
-         "name":"Infinity Blade III Modded",
-         "bundleIdentifier":"com.chairentertainment.IB3",
-         "developerName":"Epic Games",
-         "subtitle":"Infinity Blade III Modded",
-         "localizedDescription":"This is an awesome app only available on AltStore.",
-         "iconURL":"https://github.com/TomerDec/IBHOST/blob/f5c6cb1b0c8d02e45d8c281ec48d863185f0e35c/appicon.png",
-         "tintColor":"#5CA399",
-         "screenshots":[
-            "https://github.com/TomerDec/IBHOST/blob/58eace421b2350a06e19e6ada60ac5ad3665a178/ss1.jpeg",
-            "https://github.com/TomerDec/IBHOST/blob/58eace421b2350a06e19e6ada60ac5ad3665a178/ss2.jpeg",
-            {
-               "imageURL":"https://github.com/TomerDec/IBHOST/blob/58eace421b2350a06e19e6ada60ac5ad3665a178/ss3.jpeg",
-               "width":2556,
-               "height":1179
-            }
-         ],
-         "versions":[
-            {
-               "version":"1.4.4",
-               "date":"2024-03-02T09:00:00-08:00",
-               "size":1,
-               "downloadURL":"https://github.com/TomerDec/IBHOST/releases/download/game/Infinity.Blade.III.UnOfficial.Patch.v1.0.ipa",
-               "localizedDescription":"Realease number 1.4.4.",
-               "minOSVersion":"12.0"
-            }
-         ],
-         "appPermissions":{
-            "entitlements":[
-               "com.apple.security.application-groups",
-               "com.apple.developer.siri"
-            ]
-         }
-      }
-   ],
-   "news":[
-      {
-         "title":"Booting up the first Infinity Blade source for SideStore",
-         "identifier":"new_feature",
-         "caption":"Introducing the very first Infinity Blade repo for SideStore!",
-         "date":"2024-03-03",
-         "tintColor":"#5CA399",
-         "notify":false
-      },
-      {
-         "title":"App Update Available",
-         "identifier":"app_update",
-         "caption":"An update is available for Infinity Blade III.",
-         "date":"2023-03-10T10:00:00-07:00",
-         "notify":false
-      }
-   ]
+  "name": "InfinityBlade",
+  "identifier": "Infinity Blade for SideStore",
+  "sourceURL": "https://github.com/TomerDec/IBHOST/blob/82e3a30798f22864560e1f09887811df05a523b4/IBTomkef.json",
+  "apps": [
+    {
+      "name": "Infinity Blade III Modded",
+      "bundleIdentifier": "com.chairentertainment.IB3",
+      "developerName": "Tom De",
+      "subtitle": "Infinity Blade III Modded",
+      "version": "1.4.4",
+      "versionDate": "2022-12-30T00:01:00-05:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://github.com/TomerDec/IBHOST/releases/download/game/Infinity.Blade.III.UnOfficial.Patch.v1.0.ipa",
+      "localizedDescription": "The modded Infinity Blade III with unlocked framerate and various QoL features.",
+      "iconURL": "https://github.com/TomerDec/IBHOST/blob/f5c6cb1b0c8d02e45d8c281ec48d863185f0e35c/appicon.png",
+      "tintColor": "#162434",
+      "size": 77010038,
+      "screenshotURLs": [
+        "https://github.com/TomerDec/IBHOST/blob/58eace421b2350a06e19e6ada60ac5ad3665a178/ss1.jpeg",
+        "https://github.com/TomerDec/IBHOST/blob/58eace421b2350a06e19e6ada60ac5ad3665a178/ss2.jpeg"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Booting up the first Infinity Blade source for SideStore",
+      "identifier": "new-ib-1",
+      "caption": "Introducing the very first Infinity Blade repo for SideStore!",
+      "date": "2022-12-09T12:00:01-05:00",
+      "tintColor": "162434",
+      "imageURL": "https://github.com/TomerDec/IBHOST/blob/f5c6cb1b0c8d02e45d8c281ec48d863185f0e35c/appicon.png",
+      "url": "https://github.com/TomerDec/IBHOST/releases/download/game/Infinity.Blade.III.UnOfficial.Patch.v1.0.ipa",
+      "appID": "com.chairentertainment.IB3",
+      "notify": true
+    }
+  ],
+  "userInfo": {}
 }
