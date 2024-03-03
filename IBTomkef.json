@@ -18,10 +18,10 @@
          "iconURL":"https://github.com/TomerDec/IBHOST/blob/f5c6cb1b0c8d02e45d8c281ec48d863185f0e35c/appicon.png",
          "tintColor":"#5CA399",
          "screenshots":[
-            "https://example.com/myapp_portrait_screenshot1.png",
-            "https://example.com/myapp_portrait_screenshot2.png",
+            "https://github.com/TomerDec/IBHOST/blob/58eace421b2350a06e19e6ada60ac5ad3665a178/ss1.jpeg",
+            "https://github.com/TomerDec/IBHOST/blob/58eace421b2350a06e19e6ada60ac5ad3665a178/ss2.jpeg",
             {
-               "imageURL":"https://example.com/myapp_landscape_screenshot.png",
+               "imageURL":"https://github.com/TomerDec/IBHOST/blob/58eace421b2350a06e19e6ada60ac5ad3665a178/ss3.jpeg",
                "width":2556,
                "height":1179
             }
@@ -32,7 +32,7 @@
                "date":"2024-03-02T09:00:00-08:00",
                "size":1,
                "downloadURL":"https://github.com/TomerDec/IBHOST/releases/download/game/Infinity.Blade.III.UnOfficial.Patch.v1.0.ipa",
-               "localizedDescription":"New features and bug fixes.",
+               "localizedDescription":"Realease number 1.4.4.",
                "minOSVersion":"12.0"
             }
          ],
@@ -56,7 +56,7 @@
       {
          "title":"App Update Available",
          "identifier":"app_update",
-         "caption":"An update is available for My Example App.",
+         "caption":"An update is available for Infinity Blade III.",
          "date":"2023-03-10T10:00:00-07:00",
          "notify":false
       }
