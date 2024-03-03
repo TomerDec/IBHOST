@@ -6,8 +6,7 @@
    "headerURL":"https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
    "tintColor":"#4185A9",
    "featuredApps":[
-      "com.example.myapp",
-      "com.example.anotherapp"
+      "com.chairentertainment.IB3"
    ],
    "apps":[
       {
@@ -17,7 +16,7 @@
          "subtitle":"Infinity Blade III Modded",
          "localizedDescription":"This is an awesome app only available on AltStore.",
          "iconURL":"https://github.com/TomerDec/IBHOST/blob/f5c6cb1b0c8d02e45d8c281ec48d863185f0e35c/appicon.png",
-         "tintColor":"#5CA399", 
+         "tintColor":"#5CA399",
          "screenshots":[
             "https://example.com/myapp_portrait_screenshot1.png",
             "https://example.com/myapp_portrait_screenshot2.png",
